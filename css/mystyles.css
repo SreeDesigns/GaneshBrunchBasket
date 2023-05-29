@@ -1,0 +1,245 @@
+* {
+  margin: 0;
+}
+
+/*.body{
+  margin: 0 auto;
+}*/
+.main-container {
+  background-color: rgb(43, 45, 83);
+}
+
+/*.myDiv {
+  margin-top: 5px;
+  margin: 0 auto;
+  width: 50%;
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+  height: 350px;
+  padding: 8px;
+
+}*/
+/*.section1img{
+  8%
+}*/
+/*.section2img{
+  15%
+}*/
+#header1 {
+  text-align: center;
+  font-family: "Cinzel Decorative";
+  color: white;
+}
+
+header {
+  /*--border: 1px;*/
+  margin-bottom: 20px;
+  height: 200px;
+}
+
+.heading3 {
+  display: Inline;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+section {
+  clear: both;
+}
+
+li {
+  /*margin:0 auto;
+  width: 15%;*/
+  display: inline;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  font-family: Oxygen;
+  text-decoration: none;
+  color: white;
+  list-style: none;
+  padding: 5px;
+  /*border: 1px red solid;*/
+  /*text-align: center;*/
+}
+
+p, h3 {
+  color: floralwhite;
+  font-family: Oxygen;
+}
+
+.paragraphfont {
+  font-family: Oxygen;
+}
+
+.section1 {
+  height: 50vh;
+  border: 1px red solid;
+}
+
+.section1img {
+  width: 75%;
+}
+
+.section2img {
+  width: 65%;
+}
+
+.section1text {
+  width: 20%;
+}
+
+.section2text {
+  width: 30%;
+}
+
+.centerimages {
+  text-align: center;
+}
+
+.centerText {
+  text-align: center;
+  display: inline;
+}
+
+.scroll-horizontal {
+  overflow-x: auto;
+  width: 200px;
+}
+
+.scroll-vertical {
+  overflow-y: auto;
+  height: 200px;
+}
+
+.section2 {
+  background-image: url('Images/BackgroundImg1.jpg');
+}
+
+.pwidth {
+  width: 50%;
+}
+
+.pwidth1 {
+  width: 30%;
+}
+
+.pwidth2 {
+  width: 30%;
+}
+
+.pwidth3 {
+  width: 40%;
+}
+
+/*.contactuspage{
+    border-top: 5px solid red;
+    padding-top: 10px;
+
+}*/
+.textcolor {
+  color: black !important;
+}
+
+.textcolor2 {
+  color: white !important;
+}
+
+section {
+  /*border: 1px red solid;*/
+  margin: 10px 0;
+  padding: 10px;
+  background-color: rgb(43, 45, 83);
+  /*light blue*/
+  height: 50vh;
+  font-size: 12px;
+}
+
+.section2 {
+  border: 3px red solid;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: rgb(43, 45, 83);
+  /*light blue*/
+  height: 50vh;
+}
+
+.section3 {
+  border: 3px red solid;
+  margin: 10px 0px;
+  padding: 10px;
+  background-color: rgb(43, 45, 83);
+  /*light blue*/
+  height: 30vh;
+  display: inline;
+}
+
+.space {
+  border: 3px;
+  padding: 2px;
+  margin: 10px;
+}
+
+.box {
+  height: 45vh;
+  background-color: rgb(247, 244, 242);
+  border: 2px black solid;
+  padding: 5px;
+  margin: 3px 0;
+}
+
+.box2 {
+  height: 45vh;
+  background-color: rgb(247, 244, 242);
+  border: 2px black solid;
+  width: 482px;
+  padding: 5px;
+  margin: 3px 0;
+  top: 250px;
+}
+
+.box3 {
+  /*used in ContactUs page*/
+  height: 150vh;
+  background-color: rgb(247, 244, 242);
+  border: 2px red solid;
+  padding: 5px;
+  margin: 3px 0;
+  width: 150px;
+}
+
+.div1 {
+  padding: 15px;
+  margin: 0 15px;
+  border: 3px red solid
+}
+
+.div2 {
+  clear: left;
+}
+
+.div3 {
+  width: 50px;
+  margin: 0 auto;
+  margin: top/bottom, right/left;
+}
+
+.space2 {
+  margin: 10px;
+  border: 1px red solid;
+  padding: 20px;
+}
+
+.backgroundimg{
+  background-image: url('../Images/River9.jpg');
+}
+
+table, th, td {
+  border: 1px solid red;
+}
